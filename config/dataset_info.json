@@ -1,0 +1,53 @@
+[
+  {
+    "dataset_id": 0,
+    "dataset_name": "citeseer",
+    "label_size": 6,
+    "feat_dim": 3703,
+    "num_nodes": 3327,
+    "num_valid": 500,
+    "num_edgetype": 1,
+    "data_folder": "./data/citeseer/"
+  },
+  {
+    "dataset_id": 1,    
+    "dataset_name": "cora",
+    "label_size": 7,
+    "feat_dim": 1433,
+    "num_nodes": 2708,
+    "num_valid": 500,
+    "num_edgetype": 1,
+    "data_folder": "./data/cora/"
+  },
+  {
+    "dataset_id": 2,    
+    "dataset_name": "pubmed",
+    "label_size": 3,
+    "feat_dim": 500,
+    "num_nodes": 19717,
+    "num_valid": 500,
+    "num_edgetype": 1,
+    "data_folder": "./data/pubmed/"
+  },
+  {
+    "dataset_id": 3,
+    "dataset_name": "nell",
+    "label_size": 210,
+    "feat_dim_raw": 5414,
+    "feat_dim": 61278,
+    "num_nodes": 65755,
+    "num_valid": 500,
+    "num_edgetype": 1,
+    "data_folder": "./data/nell/"
+  },
+  {
+    "dataset_id": 4,    
+    "dataset_name": "diel",
+    "label_size": 4,
+    "num_valid": 500,
+    "num_nodes": 4373008,
+    "feat_dim": 1233598,
+    "num_edgetype": 1,
+    "data_folder": "./data/diel"
+  }
+]
