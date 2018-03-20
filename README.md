@@ -72,11 +72,7 @@ Please refer to ```gpnn/reader/gpnn_reader_custom.py``` for more information.
 
 
 ## Cite
-Please cite our paper if you use this code in your research work:
-```
-Bibtex goes here!
-```
-
+Please cite our paper if you use this code in your research work.
 
 ## Questions/Bugs
 Please submit a Github issue or contact rjliao@cs.toronto.edu if you have any questions or find any bugs.
