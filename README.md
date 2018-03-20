@@ -1,7 +1,14 @@
 # GPNNs
 This is the Tensorflow implementation of Graph Partition Neural Networks as described in the following paper:
 
-(https://openreview.net/forum?id=rk4Fz2e0b)
+```
+@article{liao2018graph,
+  title={Graph Partition Neural Networks for Semi-Supervised Classification},
+  author={Renjie Liao and Marc Brockschmidt and Daniel Tarlow and Alexander~L. Gaunt and Raquel Urtasun and Richard Zemel},
+  journal={arXiv preprint arXiv:1803.06272},
+  year={2018},
+}
+```
 
 
 ## Setup
