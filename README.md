@@ -1,5 +1,5 @@
 # GPNNs
-This is the Tensorflow implementation of Graph Partition Neural Networks as described in the following paper:
+This is the Tensorflow implementation of [Graph Partition Neural Networks](https://arxiv.org/abs/1803.06272) as described in the following paper:
 
 ```
 @article{liao2018graph,
