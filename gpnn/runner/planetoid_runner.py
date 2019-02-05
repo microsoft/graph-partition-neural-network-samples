@@ -4,7 +4,6 @@ import os
 import json
 import numpy as np
 import tensorflow as tf
-import cPickle as pickle
 from collections import defaultdict
 
 from gpnn.factory import RunnerFactory

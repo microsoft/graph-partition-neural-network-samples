@@ -1,11 +1,11 @@
 import os
 import numpy as np
-import cPickle as pickle
 from scipy import sparse
 from scipy.sparse import vstack
 
 from gpnn.factory import ReaderFactory
 from gpnn.data.gpnn_data import GPNNData
+from gpnn.utils import gpnn_pickle as pickle
 from gpnn.utils.logger import get_logger
 from gpnn.utils.preprocess_diel import load_sparse_csr, read_cites, read_sim_dict
 from gpnn.utils.reader_helper import read_idx_file
