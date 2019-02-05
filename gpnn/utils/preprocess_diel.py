@@ -4,9 +4,9 @@
 import os
 import argparse
 import numpy as np
-import cPickle as pickle
 from scipy import sparse
 from collections import defaultdict as dd
+from gpnn.utils import gpnn_pickle as pickle
 from gpnn.utils.logger import get_logger
 
 logger = get_logger()

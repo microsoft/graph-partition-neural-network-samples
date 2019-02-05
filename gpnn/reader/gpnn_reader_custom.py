@@ -1,11 +1,11 @@
 import os
 import numpy as np
-import cPickle as pickle
 from scipy import sparse
 
 from gpnn.factory import ReaderFactory
 from gpnn.data.gpnn_data import GPNNData
 from gpnn.reader.gpnn_reader import GPNNReader
+from gpnn.utils import gpnn_pickle as pickle
 from gpnn.utils.logger import get_logger
 
 logger = get_logger()
